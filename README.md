@@ -14,4 +14,4 @@ RNN 공부를 위한 레포지토리 입니다</div>
 ## ✔규칙
 - commit 메세지는 `닉네임_파일 내용`으로 작성
 - reference, 논의할 내용, 질문 등은 Issues탭에 작성
-- 코드 수정관련은 comment로 작성
+  - Issues 글 작성시 `label` 태그 필수
